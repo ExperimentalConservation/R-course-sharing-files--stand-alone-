@@ -4,6 +4,12 @@ The contained files are a standalone version of the bioinformatics are course ta
 
 Its published using RMarkdown.
 
+# Viewing files
+
+To view the files, navigate to the practical you want to view, hit download, and the copy and paste the URL into to viewer here:
+
+[https://htmlpreview.github.io/](https://htmlpreview.github.io/)
+
 ## Additional resources
 
 There are a suite of additional resources developed by the author and collaborators including a range of basic R Shiny tutorials covering:
